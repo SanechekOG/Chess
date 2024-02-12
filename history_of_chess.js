@@ -14,5 +14,5 @@ function openTabNews() {
     window.open('News_of_chess.html', '_blank');
 }
 function openTabChat() {
-    window.open(href ='https://vk.me/join/yPl3T9MPOXxyHTgns1IXgGEfqrvBHi8ey0w=', '_blank');
+    window.open(href ='https://vk.me/join/ZROR67exYmlpGquBjG2luuFEDaD6KzLI6_g=', '_blank');
 }
